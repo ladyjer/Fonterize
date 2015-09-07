@@ -8,3 +8,7 @@ I've tested three different techniques, cause I want to change dinamically added
 [DOM MutationObserver](https://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/)
 
 [Css Hack](http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted/) by Daniel Buchner
+# Programming language
+Javascript
+# Running platform
+GreaseMonkey script

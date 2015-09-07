@@ -10,5 +10,5 @@ I've tested three different techniques, cause I want to change dinamically added
 [Css Hack](http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted/) by Daniel Buchner
 # Programming language
 Javascript
-# Running platform
+# Runtime platform
 GreaseMonkey script
